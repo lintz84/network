@@ -9,7 +9,7 @@ import java.util.Date;
 public class TimeServer {
 
 	private static final int PORT = 60000;
-	private static final int BUFFER_SIZE = 2048;
+	private static final int BUFFER_SIZE = 1024;
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
